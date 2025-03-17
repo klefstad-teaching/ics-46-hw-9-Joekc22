@@ -13,5 +13,5 @@ int main(){
         print_path(s_path, dist[target]);
     }
 
-    return 1;
+    return 0;
 }
